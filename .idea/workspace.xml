@@ -239,6 +239,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+
+    <configuration name="OrderNacosMain83" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-consumer-nacos-order83" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.alibaba.OrderNacosMain83" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+
     <configuration name="OrderZkMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-consumerzk-order80" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.OrderZkMain80" />
@@ -387,7 +396,11 @@
       <workItem from="1595128793415" duration="6544000" />
       <workItem from="1595138467823" duration="46000" />
       <workItem from="1595303255016" duration="7857000" />
+
       <workItem from="1595397633963" duration="3460000" />
+
+      <workItem from="1595397633963" duration="4712000" />
+
     </task>
     <task id="LOCAL-00001" summary="the first commit!">
       <created>1594897300263</created>
